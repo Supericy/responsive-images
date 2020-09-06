@@ -11,8 +11,8 @@
     "prefer-stable": true,
     "require" : {
         "PHP" : ">=7.0",
-        "symfony/finder" : "^3.1",
-        "symfony/filesystem" : "^3.1",
+        "symfony/finder" : "^3.1 | ~4.0",
+        "symfony/filesystem" : "^3.1 | ~4.0",
         "intervention/image": "^2.3",
         "ps/image-optimizer": "^1.0"
     },
